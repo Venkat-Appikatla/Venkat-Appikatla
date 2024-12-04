@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Venkat-Appikatla
-- 👀 I’m interested in coading 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning machine learning 
 - 💞️ I’m looking to collaborate on big companies 
 - 📫 How to reach me with my mail 
